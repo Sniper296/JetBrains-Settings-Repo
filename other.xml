@@ -1,0 +1,8 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="7.10.0" last-modified="1495109932000" />
+      <npm-package value="/usr/lib/node_modules/yarn" />
+    </local-interpreter>
+  </component>
+</application>

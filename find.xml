@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Intel'" />
-    <option name="defaultScopeName" value="Project 'Intel'" />
-    <option name="SEARCH_SCOPE" value="Project 'Intel'" />
+    <option name="customScope" value="File '[Intel] - .../resources/views/person/create.blade.php'" />
+    <option name="defaultScopeName" value="File '[Intel] - .../resources/views/person/create.blade.php'" />
+    <option name="SEARCH_SCOPE" value="File '[Intel] - .../resources/views/person/create.blade.php'" />
   </component>
 </application>
